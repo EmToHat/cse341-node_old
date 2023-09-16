@@ -2,10 +2,10 @@
   "name": "cse341-node",
   "version": "1.0.0",
   "description": "Personal Assignment Week01 - Web Services",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/EmToHat/cse341-node/issues"
   },
-  "homepage": "https://github.com/EmToHat/cse341-node#readme"
+  "homepage": "https://github.com/EmToHat/cse341-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {}
 }
