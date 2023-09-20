@@ -8,5 +8,17 @@
     "start": "node server.js"
   },
   "author": "Emilee Hatch",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/EmToHat/cse341-node",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmToHat/cse341-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmToHat/cse341-node/issues"
+  }
 }
