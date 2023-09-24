@@ -1,0 +1,28 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "Connect an API to a database.",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongodb-connection-string-url": "^2.6.0",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmToHat/cse341-node.git#02-Personal-Solution"
+  },
+  "author": "emilee hatch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmToHat/cse341-node/issues"
+  },
+  "homepage": "https://github.com/EmToHat/cse341-node/tree/02-Personal-Solution#readme"
+}

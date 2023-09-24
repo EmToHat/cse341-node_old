@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "Daniel",
+        "lastName": "Torres",
+        "email": "torresDan@testemail.com",
+        "favoriteColor": "blue",
+        "birthday": "06/21/1995"
+    },
+    "contact2": {
+        "firstName": "Heather",
+        "lastName": "Hatch",
+        "email": "hatchHea@testemail.com",
+        "favoriteColor": "purple",
+        "birthday": "05/27/1998"
+    },
+    "contact3": {
+        "firstName": "Gabriella",
+        "lastName": "Torres-Hatch",
+        "email": "torreshatchGab@testemail.com",
+        "favoriteColor": "green",
+        "birthday": "01/12/2021"
+    }
+}
